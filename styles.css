@@ -12,6 +12,7 @@
 
 #small-header {
     font-size: 50px;
+    color: peru;
 }
 
 #landing-img {
@@ -142,4 +143,18 @@ nav {
 
   .callout {
     padding-top: 70px;
+    
   }
+  .scroll {
+    border-style: dashed;
+    width: 80%;
+    margin: 10%;
+  }
+
+  body {
+    font-family: 'Averia Serif Libre', cursive;
+}
+
+.jumbo-image {
+    backdrop-filter: opacity(20%)
+}
